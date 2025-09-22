@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Space Invaders](https://youtu.be/UILUMvjLEVU)
 In this tutorial, you will learn how to code space invaders with the built-in java awt/swing graphics library. 
 
@@ -9,3 +10,7 @@ Throughout the tutorial, you will learn how to create the game loop, create a jf
 
 ## Homework:
 You can continue working on this project if you like. You can add additional features to the game, such as letting the aliens fire bullets at you, or giving the aliens health points (HP) so that certain aliens can take more than one bullet. Another feature you can add is keeping track of the high score every time the player resets the game.  
+=======
+# space-invaders-java
+A classic Space Invaders game built in Java using OOP concepts and Swing for graphics.s
+>>>>>>> ae21091036ca19bd1a5a8e7f7333de33a88456d4
